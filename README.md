@@ -24,3 +24,4 @@ This is an AI-powered text summarizer application built using Node.js, Replit, t
 - Integrating more advanced NLP models for higher accuracy.
 - Adding a mobile version for ease of use.
 
+![SAMPLE](https://github.com/user-attachments/assets/ca6f8cfb-55d6-42a0-bf71-573875beba6c)
