@@ -1,6 +1,6 @@
 ## AI Text Summarizer App
 
-This is an AI-powered text summarizer application built using Node.js, Replit, the Hugging Face Inference API, and Postman to explore APIs and generate code. 
+This is an AI-powered text summarizer application built using Node.js, the Hugging Face Inference API, and Postman to explore APIs and generate code. 
 
 ### Features:
 - Summarizes large text documents or articles efficiently.
@@ -12,7 +12,6 @@ This is an AI-powered text summarizer application built using Node.js, Replit, t
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express, Hugging Face Inference API
 - API platform: Postman
-- Code Editor/Deployment tool: Replit 
   
 ### Usage:
 1. Clone the repository.
